@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Layout
+@import "./layout/_grid.scss";
+* {
+  font-family: Poppins;
+}
